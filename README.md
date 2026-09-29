@@ -31,19 +31,19 @@ meteor-m2-4-sdr-dataset/
 
 ├── cf32/
 
-│   ├── pass_001.cf32
+│           ├── pass_001.cf32
 
-│   ├── pass_002.cf32
+│           ├── pass_002.cf32
 
-│   └── ...
+│           └── ...
 
 ├── decoded/
 
-│   ├── pass_001.zip
+│           ├── pass_001.zip
 
-│   ├── pass_001.raw
+│           ├── pass_001.raw
 
-│   └── ...
+│           └── ...
 
 └── LICENSE
 
