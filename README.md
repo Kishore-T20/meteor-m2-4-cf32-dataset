@@ -24,29 +24,18 @@ Reception: SDR-based ground station
 
 # Repository Structure
 meteor-m2-4-sdr-dataset/
-
+meteor-m2-4-sdr-dataset/
 ├── README.md
-
 ├── metadata/
-
 ├── cf32/
-
 │   ├── pass_001.cf32
-
 │   ├── pass_002.cf32
-
 │   └── ...
-
 ├── decoded/
-
 │   ├── pass_001.zip
-
 │   ├── pass_001.raw
-
 │   └── ...
-
 └── LICENSE
-
 The exact directory structure may change as additional recordings are added.
 
 Data Types
