@@ -81,9 +81,13 @@ The decoded products provide a reference for comparing the original received sig
 Where possible, each recording follows a common identifier:
 
 pass_001.cf32
+
         │
+        
         └── decoded/pass_001/
+        
               ├── product.zip
+              
               └── product.raw
 
 This allows the raw signal recording to be associated with its corresponding decoded output.
